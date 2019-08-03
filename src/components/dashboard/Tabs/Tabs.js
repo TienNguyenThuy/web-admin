@@ -73,9 +73,7 @@ export default class Tabs extends Component {
                             <Tab.Pane eventKey="fifth2">
                                 {/* Của Tiên nè - THAM SỐ HỆ THỐNG */}
                                 <TabContent content={<ThamSoHeThong />} />
-                            </Tab.Pane>
-
-                            
+                            </Tab.Pane>                            
                         </Tab.Content>
                     </Col>
                 </Row>
